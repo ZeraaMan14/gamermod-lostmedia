@@ -1,0 +1,54 @@
+body {
+  background-image: url("https://cdn.glitch.com/5d3c0e84-a3eb-466f-8df7-0b35b866987d%2FBackgorundHD2-o.png?v=1605045362171");
+  background-color: transparent;
+  color: white
+}
+
+html {
+  
+}
+
+.table {
+  float: center;
+}
+
+.center {
+  display: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.POSdireita {
+	float: right;
+}
+
+.Barra {
+  float: right;
+}
+
+.NavCentral {
+  text-align: center;
+  color: red;  
+}
+
+.Borda {
+	border:5px inset #999;
+
+}
+
+hr {
+  color: c
+}
+
+table {
+  border:
+}
+
+ 
+{cursor:url("https://cdn.glitch.com/5d3c0e84-a3eb-466f-8df7-0b35b866987d%2Fm%C3%A3o.cur?v=1610400049826"), Pointer}
+
+
+
+<style type="text/css">
+body {cursor:url("https://cdn.glitch.com/5d3c0e84-a3eb-466f-8df7-0b35b866987d%2Fsele%C3%A7%C3%A3o.cur?v=1610399706951"),Default}
+</style>
